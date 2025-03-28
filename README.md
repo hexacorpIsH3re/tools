@@ -1,6 +1,8 @@
 # tools
 Tools made by: vapeclient___
 
+*First, on CMD put "pip install -r requirements.txt" *
+
 User: hexa
 Pass: Admin
 
