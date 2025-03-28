@@ -1,0 +1,9 @@
+requests
+colorama
+beautifulsoup4
+python-nmap
+dhooks
+morse-talk
+gtts
+playsound
+pygame
