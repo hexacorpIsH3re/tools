@@ -7,3 +7,7 @@ Tools made by: vapeclient___
    -- # Hexa is Top -- 
 
     🐱‍👤💻
+
+# This code is made so that it can be customized, even adding updates is free for everyone.
+
+*if you have experience on any programming language, you can join (.gg/hexacorp) for talk with the hexa Team*
