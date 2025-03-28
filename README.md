@@ -1,6 +1,10 @@
 # tools
 Tools made by: vapeclient___
 
+User: hexa
+Pass: Admin
+
+you can change it.
 
 **Want a custom code? Contact me on Discord!**
 
