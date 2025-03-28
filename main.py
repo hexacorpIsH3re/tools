@@ -230,8 +230,8 @@ def spam_webhook():
     try:
         hook = Webhook(webhook_url)
         for i in range(cantidad):
-            hook.send(f"{mensaje} [{i+1}]")
-            print(Fore.GREEN + f"[+] Mensaje {i+1} enviado exitosamente" + Style.RESET_ALL)
+            hook.send(f"{mensaje}")
+            print(Fore.GREEN + f"[+] Mensajeenviado exitosamente" + Style.RESET_ALL)
             time.sleep(0.5)  
     except Exception as e:
         print(Fore.RED + f"[!] Error: {str(e)}" + Style.RESET_ALL)
